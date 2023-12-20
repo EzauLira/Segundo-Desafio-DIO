@@ -48,4 +48,4 @@ Por fim, no output do console, aparece a seguinte mensagem:
 Obrigado a Equipe [DIO](https://web.dio.me/) e professor: [Felipe Aguiar](https://www.instagram.com/felipeaguiar.exe/), por me proporcionar essa experiência incrível de aprendizado e evolução 😎🤝
 
 ## 💻 Tecnologias usadas: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="30" />

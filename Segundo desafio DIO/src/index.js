@@ -9,7 +9,7 @@ function sum(victory, lose){
 //empty variable that receives the rating value
 rank = ""
 
-//Estrutura de decisão, que recebe o valor do cálculo e imprime o resultado no rank
+//Decision structure, which receives the calculation value and prints the result in the rank
 if(level <= 10){
     rank = "IRON"
 }else if(level >= 11 && level <= 20){
